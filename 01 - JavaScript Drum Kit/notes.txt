@@ -1,0 +1,13 @@
+New addeventlistener inputs
+    https://developer.mozilla.org/en-US/docs/Web/API/TransitionEvent
+     transitionend = an event transion ends?
+     keydown- a key is pressed
+
+querySelector attributes
+    .classList.remove("delete from list")
+    .classList.add("newthing")
+    .play() plays the sound or video?
+    .currentTime = val 
+
+event attributes
+    keycode - finds the number keycode of the event
